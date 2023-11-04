@@ -26,10 +26,11 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// Create a variable called name and set as 'Dane'
-// create a conditional 
-// if name is 'Mary' Console log 'Hi, Mary!'
-// if the name is not Mary console log 'How do you do?'
+// Create a variable called name and set the value as the string 'Dane'
+// create a conditional where
+// if name is 'Mary' Console.log 'Hi, Mary!'
+// if the name is not Mary console.log 'How do you do?'
+// for this code the output would be How do you do?
 
 //CODE
 /*
@@ -45,10 +46,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// create a variable called secret.
+// create a variable called code with a number value of 123
+// create an if statement where if code is exactly 123 then console log for secret would be the string super
+// multiply code by 2 and create a second if statement where if the result of code is >250 console log would add the string duper
+// the output for console.log(secret) in this problem would be super.
 
 //CODE
 /*
@@ -70,10 +72,13 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// create three variables isStudent, age, zip with the values of 'true', 34, and 55407 respectively
+// create an if, else if conditional statement 
+// if isStudent is true AND zip is greater than 80000 the console log output will be 'You're a student on the west coast!'
+// if isStudent is false OR age is less than 30 console log output will be 'What are your hobbies?'
+// if isStudent is true with no other information the console log output will be 'Welcome to Prime!'
+// if none of these apply the console log output will be 'How about the weather?'
+// for this problem the console.log output will be Welcome to Prime! Because it is a student, over 30 but the zip code is not greater than 80000
 
 //CODE
 /*
@@ -107,7 +112,7 @@ if (isStudent === true && zip > 80000 ) {
 // We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 
-// -- it is, so we console.log 'yes'
+// -- it is, so we console.log 'yes' 
 
 //CODE
 /*
