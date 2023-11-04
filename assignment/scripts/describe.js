@@ -134,7 +134,9 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
-/*
+/* there is no condition for colorTwo. 
+/* On the line after colorOne = 'purple'; there should be a second line that says colorTwo = 'purple'
+
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -148,7 +150,7 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
-/* the if statement is saying if the temerature is greater than 39 OR the time is greater than or equal to 4.
+/* the if statement in this problem is saying if the temerature is greater than 39 OR the time is greater than or equal to 4.
 the || should be changed to && to say both the temperature and time need to be over 30 and at least 4.
 
 let temp = 40;
@@ -163,7 +165,8 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
 
-/*
+/* this problem is saying if the minAge is <= age but it should be reversed saying age >= minAge
+
 let age = 21;
 const minAge = 21;
 
