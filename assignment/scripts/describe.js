@@ -136,6 +136,7 @@ if (number >= 2) {
 
 /* there is no condition for colorTwo. 
 /* On the line after colorOne = 'purple'; there should be a second line that says colorTwo = 'purple'
+/* If you console.log either colorOne or colorTwo the output would be purple.
 
 let colorOne = 'red';
 let colorTwo = 'blue';
