@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Create a variable called name and set as 'Dane'
+// create a conditional 
+// if name is 'Mary' Console log 'Hi, Mary!'
+// if the name is not Mary console log 'How do you do?'
 
 //CODE
 /*
@@ -143,14 +143,16 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
-/*
+/* the if statement is saying if the temerature is greater than 39 OR the time is greater than or equal to 4.
+the || should be changed to && to say both the temperature and time need to be over 30 and at least 4.
+
 let temp = 40;
 const time = 4;
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
-*/
+*/ 
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
